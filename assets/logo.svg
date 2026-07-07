@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 210" fill="none" role="img" aria-label="CANIRAC">
+  <g fill="currentColor" stroke="none">
+    <!-- Anillo abierto (imagotipo), abertura del lado derecho -->
+    <path d="M150 44 A82 82 0 1 0 150 166"
+          fill="none" stroke="currentColor" stroke-width="9" stroke-linecap="round"/>
+    <!-- Tenedor: 4 dientes -->
+    <rect x="88"  y="40" width="5.4" height="46" rx="2.7"/>
+    <rect x="99"  y="40" width="5.4" height="46" rx="2.7"/>
+    <rect x="110" y="40" width="5.4" height="46" rx="2.7"/>
+    <rect x="121" y="40" width="5.4" height="46" rx="2.7"/>
+    <!-- Cuello / base del tenedor -->
+    <path d="M86 85 L127 85 L116 106 L97 106 Z"/>
+    <!-- Tallo central -->
+    <rect x="104.4" y="104" width="4.2" height="70" rx="2.1"/>
+    <!-- Espiga: hojas (2 pares) -->
+    <g>
+      <!-- par superior -->
+      <path d="M106.5,116 Q90,113 82,126 Q98,129 106.5,116 Z"/>
+      <path d="M106.5,116 Q123,113 131,126 Q115,129 106.5,116 Z"/>
+      <!-- par inferior -->
+      <path d="M106.5,138 Q90,135 82,148 Q98,151 106.5,138 Z"/>
+      <path d="M106.5,138 Q123,135 131,148 Q115,151 106.5,138 Z"/>
+    </g>
+    <!-- Punto inferior -->
+    <circle cx="106.5" cy="185" r="6.2"/>
+  </g>
+</svg>
